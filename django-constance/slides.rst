@@ -7,7 +7,6 @@ django-constance
 .. footer:: Ales Zoulek (@aleszoulek) | <ales.zoulek@gmail.com>
 
 
-
 django-constance
 ================
 
@@ -35,7 +34,7 @@ Testable
 * Fast
 * Standard
 
-.. code-block:: python
+.. code-block:: shell
 
     setup.py test
 
@@ -51,13 +50,13 @@ PyPI
 * Easy!
 * Create account 
 
-.. code-block:: python
+.. code-block:: shell
 
     setup.py register
 
 * Upload new release
 
-.. code-block:: python
+.. code-block:: shell
 
     setup.py sdist upload
 
@@ -65,8 +64,8 @@ Result
 ======
 
 * Multiple backends
-* Django compatinility (1.1 - current dev)
-* ~100 Github folowers
+* Django compatibility (1.1 - current dev)
+* ~100 Github followers
 * ~700 PyPI downloads
 
 Open source works!
